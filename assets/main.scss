@@ -71,3 +71,10 @@
 .codecell table {
         width: auto;
 }
+
+.social-media-list {
+        display: flex;
+        justify-content: flex-start;
+        list-style: none;
+        padding: 0;
+}
