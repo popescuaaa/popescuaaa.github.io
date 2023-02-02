@@ -1,4 +1,4 @@
---- # Only the main Sass file needs front matter (the dashes are enough) --- @import "{{ site.theme }}";
+@import "{{ site.theme }}";
 
 .post img {
         display: block;
@@ -70,12 +70,4 @@
 
 .codecell table {
         width: auto;
-}
-
-.social-media-list {
-        // Display social media links inline with space between them
-        display: inline;
-        list-style-type: none;
-        margin: 0;
-        padding: 0;
 }
