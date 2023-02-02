@@ -1,3 +1,3 @@
-Hi there 👋. I am Andrei and I like to build things. 
+👋 Welcome to Andrei’Log
 
-I use this site to keep track of my ML latest topics of interest and to showcase some of my personal projects.
+Hi, this is Andrei. I’m documenting my learning notes in this blog and try to showcase some projects. Other than writing a ML blog, I’m a Data Scientist at Orange 🍊.
