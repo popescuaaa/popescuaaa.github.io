@@ -11,3 +11,5 @@ I am a Data Scientist @ Orange Services in Romania. Highly enthusiastic & coffee
 - 🚀 I enjoy working in fast paced, startup like environments.
 
 
+
+
