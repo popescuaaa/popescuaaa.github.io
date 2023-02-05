@@ -95,7 +95,15 @@
 <img src="./images/hoot.jpg"  width="50" height="50">
 </p>
 
-- ### Hootsuite
+<p style="display: flex;
+ flex-direction: column;
+ justify-content: center;
+ align-items: center;
+ font-size: 20px;
+ transition: transform .2s ease, opacity .2s ease;">
+Hootsuite
+</p>
+
     - Frontend Developer Co-op: Jun 2019 - Sep 2019
         - I took part in the process of development of a real tool that will help the front-end team from Bucharest to speed up the React coding. 
         - Most of the time I worked with React & TypeScript and JavaScript for automation scripting. 
@@ -107,11 +115,19 @@
 <img src="./images/md.jpg"  width="50" height="50">
 </p>
 
-- ### Medic Chat
+<p style="display: flex;
+ flex-direction: column;
+ justify-content: center;
+ align-items: center;
+ font-size: 20px;
+ transition: transform .2s ease, opacity .2s ease;">
+Medic Chat
+</p>
+
     - Web developer Co-op
         - Medic Chat is a Romanian Start-up in e-Health that has the purpose to intermediate the process of classical consultations by using an online portal where medics can answer questions and can give an advice.
 
-        - Work with the founder at different strategies for improving the monthly number of active users and customers - Develop front-end for the main application using Angular 6     
+        - Work with the founders at different strategies for improving the monthly number of active users and customers - Develop front-end for the main application using Angular 6     
         - Automate the email process for new customers 
         - Automate the testing process of the web application using Python and Selenium 
         - Main programming languages and tools: TypeScript, Angular, Python
