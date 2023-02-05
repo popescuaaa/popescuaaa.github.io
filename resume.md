@@ -21,7 +21,10 @@
 
 ## Work experience
 
+<p style="text-align:center">
 <img src="./images/orange.jpg"  width="50" height="50">
+</p>
+
 
 - ### Orange Services
     - Full-time
@@ -37,7 +40,9 @@
 
         - Working on improving the performance of speech to text models for Romanian Language with model and dataset quality improvements.
 
+<p style="text-align:center">
 <img src="./images/upb.jpg"  width="50" height="50">
+</p>
 
 - ### Facultatea de Automatică și Calculatoare, UPB
     - Graduate Teaching Assistant  - Sep 2021 - Aug 2022
@@ -52,7 +57,9 @@
         - Prepared homework assignments (i.e.: a custom language interpreter for Glypho programming language).
         - Graded exam submissions and actively participated in curriculum planning.
 
+<p style="text-align:center">
 <img src="./images/st.jpg"  width="50" height="50">
+</p>
 
 - ### Stealth Startup (Undisclosed) 
     -  Software Engineer (Full Stack) - Jan 2022 - May 2022
@@ -61,7 +68,9 @@
         - Created and maintained the front-end app
         - Integrated different features into the customers flow in order to enhance the user experience
 
+<p style="text-align:center">
 <img src="./images/wml.jpg"  width="50" height="50">
+</p>
 
 - ### Wave Motion Labs
     - Software Engineer - Mar 2021 - Jan 2022
@@ -71,7 +80,9 @@
         - Developed data cleaning and data engineering tools for Computer Vision pipelines based on Apache Airflow.
         - Worked on SSR solution for ecommerce platforms based on Jamstack & Gatsby & GraphQL.
 
+<p style="text-align:center">
 <img src="./images/nxp.jpg"  width="50" height="50">
+</p>
 
 - ### NXP Semiconductors
     -  Software Engineer Co-op: Nov 2019 - Nov 2020
@@ -80,7 +91,9 @@
         - Working alongside the OS Team for extending the functionalities offered by NXP for Linux Automotive distributions to Zephyr
         - Main programming languages and tools: C, Python [ west ] and Configuration files
 
+<p style="text-align:center">
 <img src="./images/hoot.jpg"  width="50" height="50">
+</p>
 
 - ### Hootsuite
     - Frontend Developer Co-op: Jun 2019 - Sep 2019
@@ -90,7 +103,9 @@
         - The main project consisted of a React Component that uses Cosmos( server like front-end development tool which uses a large amount of proxies to separate different components in a React project to make them accessible for developers) that acts as an Icon store with copy and paste feature.
         - Main programming languages and tools: TypeScript, React, Docker, Jenkins
 
+<p style="text-align:center">
 <img src="./images/md.jpg"  width="50" height="50">
+</p>
 
 - ### Medic Chat
     - Web developer Co-op
