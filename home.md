@@ -20,6 +20,3 @@ Fields of interest: Data Science, Machine Learning, Deep Learning, Software Engi
 - Mobile development (mostly Android)
 
 If you have a project in mind, feel free to reach out and we can discuss the details.
-
-
-
