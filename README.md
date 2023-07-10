@@ -1,1 +1,1 @@
-### My blog
+### Personal log for diffent projects
