@@ -1,7 +1,7 @@
 👋 Welcome to Andrei Log
 
 
-Hi, this is Andrei. I’m documenting my learning notes in this blog and try to showcase some projects. Other than writing a this blog, I’m a Data Scientist at Orange 🍊 and I have a master degree in AI @ Politehnica University of Bucharest.
+Hi, this is Andrei. I’m documenting my learning notes in this blog and try to showcase some projects. Other than writing a this blog, I’m a Data Scientist at Orange 🍊 and I have a Msc. Degree in AI @ Politehnica University of Bucharest.
 
 I have a strong background in Machine Learning and I’m passionate about Data Science, AI, and Software Engineering. I’m also interested in the intersection of these fields with other areas such as <b> Finance </b>, <b> Economics </b>, and <b> Agriculture </b>.
 
@@ -11,7 +11,7 @@ You can check my About page for more details about my background and my projects
 
 Fields of interest: Data Science, Machine Learning, Deep Learning, Software Engineering, Finance, Economics, Agriculture.
 
-## I also provide consulting services in the following areas: 
+## I also open to provide consulting services in the following areas: 
 
 - Data Science
 - Machine Learning

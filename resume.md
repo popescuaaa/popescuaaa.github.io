@@ -35,7 +35,20 @@ Orange Services
 </p>
 
 - Data Scientist - January 2023 - Present
-    - Responsible for creating and maintaining automatic speech recognition systems
+    - Responsible for creating and maintaining automatic speech recognition systems in GCP and NLP heavy load solutions (Named Entity Recognition, Dialogue State Tracking, Automatic Speech Recognition)
+
+    - Create ASR benchmarks for different technologies.
+    - Working on improving the performance of speech-to-text models for Romanian Language with model and dataset quality improvements.
+    - Create the production environment for heavy load models like OpenAI Whisper, custom models etc.
+    - Resolve the challanges in MLOps ( ASR, NLP) to keep the inference cost low: model quantization, batch inference etc.
+
+    👀 Mentoring for Bechelor Thesis projects and Disertation projects as company representative
+    - Network topology generation using Genetic Algorithms (Bechelor Thesis)
+    - Predictive analyze of the network data (Disertation)
+    - Techniques for network data forecasting (Disertation)
+
+    🎙 I am also actively participating in Orange Services Bootcamp, teaching an Intro to AI class for 3rd year students at the Politechnica University of Bucharest and many other events as speaker (Job Fairs, Awerness campaigns about the company and AI in general)
+
 - Data Engineer - May 2022 - January 2023
     - I have started a Research Reading Group in which I am responsible for the general direction for each session, present the state of the art and implement different models as alternatives for our business cases solutions. 📰
 
