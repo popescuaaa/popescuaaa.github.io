@@ -5,7 +5,7 @@
 {:toc}
 
 <p style="text-align:center">
-    <img src="./images/gcp.jpg"  width="200" height="200">
+    <img src="../images/gcp.jpg"  width="200" height="200">
 </p>
 
 ## Intro
