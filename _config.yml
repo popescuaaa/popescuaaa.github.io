@@ -21,10 +21,13 @@ linkedin_username: andrei-gabriel-popescu
 use_math: true
 
 # Add your Google Analytics ID here if you have one and want to use it
-google_analytics:
+google_analytics: 
 
 # Everything below here can be ignored, unless you want to change the theme entirely
 theme: minima
+minima:
+  skin: dark
+  date_format: "%b %-d, %Y"
 plugins:
   - jekyll-feed
   - jekyll-gist
