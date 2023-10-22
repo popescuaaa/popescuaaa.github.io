@@ -4,7 +4,9 @@
 1. TOC
 {:toc}
 
-![pc](https://unsplash.com/photos/vintage-gray-game-console-and-joystick-p0j-mE6mGo4)
+<p style="text-align:center">
+    <img src="./images/gcp.jpg"  width="200" height="200">
+</p>
 
 ## Intro
 
